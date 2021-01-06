@@ -1,7 +1,7 @@
 ## Background 
 
 * ``git`` was created by Linus Torvalds, the creator of Linux
-* In short, ``git`` manages changes in files and is one of the leading tool for source control. 
+* In short, ``git`` manages changes in files and is one of the leading tools for source control. 
 * Some basic terminology 
   * ``commit`` defines the state of files as they were at that point in time
   * ``commit``s are affiliated with repositories and branches 
