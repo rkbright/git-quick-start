@@ -58,7 +58,7 @@ OUTPUT: ``Initialized empty Git repository in /Users/name/path/to/folder/.git/``
 ## Checking files
 NOTE:``q`` to quit view 
 * Check file difference: ``$ git diff ``
-* Check log: ``$ got log`` 
+* Check log: ``$ git log`` 
 
 ### Merging and pushing 
 * Merge a branch: ``$ git merge [branch-name]``
